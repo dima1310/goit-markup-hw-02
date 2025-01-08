@@ -47,7 +47,7 @@ a {
 .hero-title {
   font-weight: 700;
   font-size: 56px;
-  line-height: 1.07143;
+  line-height: 1.07;
   letter-spacing: 0.02em;
   text-align: center;
   color: #fff;
@@ -62,4 +62,8 @@ a {
   line-height: 1.5;
   letter-spacing: 0.04em;
   color: #fff;
+}
+.hero-button:hover,
+.hero-button:focus {
+  background-color: #404bbf;
 }
