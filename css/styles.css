@@ -55,7 +55,7 @@ a {
 .hero {
   background-color: #2e2f42;
 }
-.hero-button {
+.cursor-pointer {
   background-color: #4d5ae5;
   font-weight: 500;
   font-size: 16px;
@@ -63,7 +63,21 @@ a {
   letter-spacing: 0.04em;
   color: #fff;
 }
-.hero-button:hover,
-.hero-button:focus {
+.cursor-pointer:hover,
+.cursor-pointer:focus {
   background-color: #404bbf;
+}
+.item-title {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+.item-text {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
 }
