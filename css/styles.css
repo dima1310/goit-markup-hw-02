@@ -36,7 +36,6 @@ a {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  color: #2e2f42;
 }
 .nav-link:hover,
 .nav-link:focus,
@@ -55,9 +54,7 @@ a {
 .hero {
   background-color: #2e2f42;
 }
-.team {
-  background-color: #f4f4fd;
-}
+
 .hero-btn {
   background-color: #4d5ae5;
   font-weight: 500;
@@ -69,6 +66,9 @@ a {
 .hero-btn:hover,
 .hero-btn:focus {
   background-color: #404bbf;
+}
+.team {
+  background-color: #f4f4fd;
 }
 .item-title {
   font-weight: 500;
