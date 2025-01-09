@@ -39,13 +39,12 @@ a {
   color: #434455;
 }
 .nav-link:focus,
-.сontacts-link:focus {
-  color: #404bbf;
-}
 .nav-link:hover,
+.сontacts-link:focus,
 .сontacts-link:hover {
   color: #404bbf;
 }
+
 .hero-title {
   font-weight: 700;
   font-size: 56px;
