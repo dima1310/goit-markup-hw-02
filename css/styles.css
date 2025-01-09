@@ -40,8 +40,8 @@ a {
 }
 .nav-link:focus,
 .nav-link:hover,
-.сontacts-link:focus,
-.сontacts-link:hover {
+.contacts-link:focus,
+.contacts-link:hover {
   color: #404bbf;
 }
 
