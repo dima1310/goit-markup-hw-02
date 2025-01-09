@@ -42,7 +42,7 @@ a {
 .nav-link:focus,
 .Contacts-link:hover,
 .Contacts-link:focus {
-  color: #404bbf;
+  .color: #404bbf;
 }
 .hero-title {
   font-weight: 700;
@@ -67,7 +67,7 @@ a {
 }
 .hero-btn:hover,
 .hero-btn:focus {
-  .color: #404bbf;
+  background-color: #404bbf;
 }
 
 .item-title {
