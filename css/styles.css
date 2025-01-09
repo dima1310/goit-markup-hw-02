@@ -57,6 +57,7 @@ a {
 }
 
 .hero-btn {
+  cursor: pointer;
   background-color: #4d5ae5;
   font-weight: 500;
   font-size: 16px;
@@ -66,7 +67,7 @@ a {
 }
 .hero-btn:hover,
 .hero-btn:focus {
-  background-color: #404bbf;
+  .color: #404bbf;
 }
 
 .item-title {
