@@ -38,13 +38,12 @@ a {
   letter-spacing: 0.02em;
   color: #434455;
 }
-
-.сontacts-link:hover,
+.nav-link:focus,
 .сontacts-link:focus {
   color: #404bbf;
 }
 .nav-link:hover,
-.nav-link:focus {
+.сontacts-link:hover {
   color: #404bbf;
 }
 .hero-title {
